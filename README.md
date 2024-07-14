@@ -1,1 +1,1 @@
-# IOS_App_With_CoreData
+A simple team member presentation app with searching and favourite functions. Theme is Chicago Bulls. Well designed UI.
